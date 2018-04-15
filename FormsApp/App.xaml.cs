@@ -8,6 +8,9 @@ namespace FormsApp
     {
         public static bool UseMockDataStore = true;
         public static string BackendUrl = "https://localhost:5000";
+        /// <summary>
+        ///  Note for somathing update to git
+        /// </summary>
 
         public App()
         {
